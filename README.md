@@ -22,28 +22,6 @@ Languages and technologies used across my repositories:
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📦 Projects
-
-### 🎮 Godot Tower Defense
-Experimental tower defense game built with **Godot** and **GDScript**.
-
-Features:
-- modular tower system
-- wave manager
-- random path generation
-
-### 🐳 WinterCMS Boilerplate
-Dockerized development environment for **WinterCMS**.
-
-Stack:
-- PHP
-- JavaScript
-- HTML / CSS
-- Docker
-
----
 
 ## ⚡ Fun Facts
 
