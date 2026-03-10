@@ -1,64 +1,39 @@
-# Hi there 👋 I'm Melvin
+# Melvin Knop
 
-💻 Developer who enjoys building tools, experimenting with game development and web technologies.
+Software developer from Germany.
 
-- 🌍 Based in Germany
-- 🎮 Currently experimenting with Godot
-- 🐳 Interested in Dockerized development setups
-- 🌱 Always learning new technologies
+## About
 
----
+- interested in backend and web development  
+- experimenting with game development using Godot  
+- building dockerized development environments  
 
-## 🚀 Tech Stack
+## Technologies
 
-Languages and technologies used across my repositories:
+Languages used in my repositories:
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
-![Smarty](https://img.shields.io/badge/Smarty-FFB13B?style=for-the-badge)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- PHP  
+- JavaScript  
+- HTML  
+- CSS / Less  
+- GDScript  
 
----
+Tools & platforms:
 
-## 📦 Projects
+- Docker  
+- WinterCMS  
+- Godot Engine  
 
-### 🎮 Godot Tower Defense
-Experimental tower defense game built with **Godot** and **GDScript**.
+## Projects
 
-Features:
-- modular tower system
-- wave manager
-- random path generation
+**godot_tower_defense**  
+Experimental tower defense project built with Godot.
 
-### 🐳 WinterCMS Boilerplate
-Dockerized development environment for **WinterCMS**.
+**wintercms_boilerplate**  
+Docker-based development environment for WinterCMS.
 
-Stack:
-- PHP
-- JavaScript
-- HTML / CSS
-- Docker
+## GitHub
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=melknoo&show_icons=true&hide_border=true)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melknoo&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melknoo&layout=compact&theme=tokyonight)
-
----
-
-## ⚡ Fun Facts
-
-- I enjoy experimenting with **game development**
-- I like building **local development environments with Docker**
-- I enjoy learning by building small experimental projects
-
----
-
-⭐️ From [melknoo](https://github.com/melknoo)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melknoo&layout=compact&hide_border=true)
